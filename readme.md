@@ -3,7 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7e9abaa-bbe7-49dd-badd-ce47216dc219/deploy-status)](https://app.netlify.com/sites/shoppingcartexample/deploys)
 
 https://shoppingcartexample.netlify.com  
-https://danielcregg.github.io/shoppingcart/
+https://deirdreodonovan.github.io/shoppingcart/
 
 This shopping cart is built using jQuery and sessionStorage. 
 
